@@ -1,0 +1,49 @@
+{
+  "products":[
+    {
+      "id": "1",
+      "brand":"Here&Now",
+      "image":"https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/n/k/b/4xl-63079502-puma-original-imagzn8v6x4hchhj.jpeg?q=70",
+      "currentPrice":"150",
+      "standardPrice":"300",
+      "discount":"50",
+      "name":"Men Pure Cotton T-Shirt"
+    },
+    {
+      "id": "2",
+      "brand":"Allen Solly",
+      "image":"https://rukminim2.flixcart.com/image/612/612/l4vnbm80/t-shirt/i/j/q/m-askporgfj72665-new-allen-solly-original-imagfzk8vjxgurcj.jpeg?q=70",
+      "currentPrice":"679",
+      "standardPrice":"1099",
+      "discount":"38",
+      "name":"Men Solid Polo Neck"
+    },
+    {
+      "id": "3",
+      "brand":"FLYING MACHINE",
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/f/o/i/xl-fmtsh6876-flying-machine-original-imagy62d5egzmsgz.jpeg?q=70",
+      "currentPrice":"673",
+      "standardPrice":"1299",
+      "discount":"48",
+      "name":"Men Printed Typography"
+    },
+    {
+      "id": "4",
+      "brand":"LOUIS PHILIPPE",
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/p/j/i/-original-imagsaxgzfygwfnp.jpeg?q=70",
+      "currentPrice":"1299",
+      "standardPrice":"1999",
+      "discount":"35",
+      "name":"Men Stripped Polo"
+    },
+    {
+      "id": "5",
+      "brand":"The Bear House",
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/v/u/xxl-tbh-curant-mc-the-bear-house-original-imahymzhhd6ysxcz.jpeg?q=70",
+      "currentPrice":"457",
+      "standardPrice":"1295",
+      "discount":"64",
+      "name":"Men Printed Round Neck T-Shirt"
+    }
+      ]
+}
